@@ -1,0 +1,15 @@
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\bin\Debug\net6.0\UpdatedPayInInstallmentsApp.exe
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\bin\Debug\net6.0\UpdatedPayInInstallmentsApp.deps.json
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\bin\Debug\net6.0\UpdatedPayInInstallmentsApp.runtimeconfig.json
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\bin\Debug\net6.0\UpdatedPayInInstallmentsApp.dll
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\bin\Debug\net6.0\UpdatedPayInInstallmentsApp.pdb
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\obj\Debug\net6.0\UpdatedPayInInstallmentsApp.csproj.AssemblyReference.cache
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\obj\Debug\net6.0\UpdatedPayInInstallmentsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\obj\Debug\net6.0\UpdatedPayInInstallmentsApp.AssemblyInfoInputs.cache
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\obj\Debug\net6.0\UpdatedPayInInstallmentsApp.AssemblyInfo.cs
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\obj\Debug\net6.0\UpdatedPayInInstallmentsApp.csproj.CoreCompileInputs.cache
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\obj\Debug\net6.0\UpdatedPayInInstallmentsApp.dll
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\obj\Debug\net6.0\refint\UpdatedPayInInstallmentsApp.dll
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\obj\Debug\net6.0\UpdatedPayInInstallmentsApp.pdb
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\obj\Debug\net6.0\UpdatedPayInInstallmentsApp.genruntimeconfig.cache
+C:\Users\KALU'S PC\source\repos\UpdatedPayInInstallmentsApp\obj\Debug\net6.0\ref\UpdatedPayInInstallmentsApp.dll
